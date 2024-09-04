@@ -1,0 +1,15 @@
+Cliente: Murilo Barros
+Produto: Cadeira
+Quantidade: 434
+Dropdown Valor: Esportes
+-----------------------
+Cliente: Diogo da Rocha
+Produto: Violino
+Quantidade: 714
+Dropdown Valor: Comida
+-----------------------
+Cliente: Emilly Fogaa
+Produto: Lmpada
+Quantidade: 981
+Dropdown Valor: Jardinagem
+-----------------------
